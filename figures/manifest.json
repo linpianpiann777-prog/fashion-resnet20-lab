@@ -1,0 +1,51 @@
+{
+  "learning_curves": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 10.0,
+    "height_inches": 3.5,
+    "sha256": "09bcff29dc017c3d8b14e4b6025dab67b0e6351b1266e1d1675eecc8f27202d8"
+  },
+  "tradeoffs": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 10.0,
+    "height_inches": 3.5,
+    "sha256": "91fc8866661a394f76939869c77f6caadb6d8b5381f476b6a2565839e568d864"
+  },
+  "latency_accuracy": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 7.0,
+    "height_inches": 3.4,
+    "sha256": "31dd9dfc3cd5f6654cc97b5ce666a50a57941c706a32aa4e4abbf0193c729b0e"
+  },
+  "confusion_matrix": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 7.4,
+    "height_inches": 5.4,
+    "sha256": "8f43502d8c28794e288dca607f3c5b11417eb774c3f87bdd4a72171070a3cb02"
+  },
+  "threshold_sweep": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 9.0,
+    "height_inches": 3.3,
+    "sha256": "02d0ba748cdab46a82c45eb7c990240d5981a82b0c24a783a5ad9fad448ea365"
+  },
+  "error_examples": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 9.0,
+    "height_inches": 4.6,
+    "sha256": "e55ba05389e6587100e44a8213df1ed8ea7d662f2903471cae035f2b81d0b033"
+  },
+  "architecture": {
+    "source": "results/*/history.csv or test_predictions.npz; results/summary.json",
+    "dpi": 180,
+    "width_inches": 10.0,
+    "height_inches": 2.2,
+    "sha256": "61c891814f1ca202a381baec318ec7b31f06fddfcc4e6452f5da37310a23ff5c"
+  }
+}

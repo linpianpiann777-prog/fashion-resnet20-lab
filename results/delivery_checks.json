@@ -1,0 +1,9 @@
+{
+  "report_pages": 10,
+  "report_embedded_figures": 8,
+  "report_numeric_fields_checked": true,
+  "report_sha256": "49ec5b054bd2d0e6760db881b34d195395004536047e0b2c8834594662318e58",
+  "all_12_checkpoints_reverified": true,
+  "app_checks_passed": true,
+  "report_rendering": "Microsoft Word PDF export and visual inspection of every page"
+}

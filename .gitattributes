@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.png -text
+*.docx -text
+*.npz -text
+*.pt -text
+*.svg linguist-generated=true whitespace=-blank-at-eol

@@ -1,0 +1,6 @@
+# Tested with Python 3.12; install matching CUDA build per README if GPU is required.
+torch==2.11.0
+numpy==2.0.2
+Pillow==13.0.0
+matplotlib==3.11.2
+python-docx>=1.2,<2

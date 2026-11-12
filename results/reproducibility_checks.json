@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "device": "cuda",
+  "checks": [
+    {
+      "variant": "baseline",
+      "seed": 42,
+      "test_correct": 9292,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "29be6d56450d47b2e14a8830e23b6646c75c76df209f9b2ed10231dbe1858675"
+    },
+    {
+      "variant": "baseline",
+      "seed": 43,
+      "test_correct": 9288,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "ab3281e835d07a9096fafe28f59e0855f28064b24ee03ed0fdf1e371092439e1"
+    },
+    {
+      "variant": "baseline",
+      "seed": 44,
+      "test_correct": 9282,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "adc3a27cfb3bbd1591ca71dabe918b34dd16f2bae1a5dd74516ecdd44e436c3c"
+    },
+    {
+      "variant": "dw",
+      "seed": 42,
+      "test_correct": 9198,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "a7ed56d8d95fa57a9dd2e744f11c4a4115428b7d022c8c243711984720c671e8"
+    },
+    {
+      "variant": "dw",
+      "seed": 43,
+      "test_correct": 9215,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "93a5c33c23d5ef4e716f12e03a409bb29f7313e8585e3169bf6208bb44682dfc"
+    },
+    {
+      "variant": "dw",
+      "seed": 44,
+      "test_correct": 9163,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "053c1a09b4cbc3a8f66e0283018f875dff5fe97296787fe910898f31c821aa1d"
+    },
+    {
+      "variant": "se",
+      "seed": 42,
+      "test_correct": 9286,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "76245fb156b905206d4ddb15261f357aad55d4d0113373e429ab2f08464642fa"
+    },
+    {
+      "variant": "se",
+      "seed": 43,
+      "test_correct": 9325,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "df55ec8124abf9f1ecee65521af08fe339eaaa87bf8e241c98d029d118ab2363"
+    },
+    {
+      "variant": "se",
+      "seed": 44,
+      "test_correct": 9365,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "14317f0b3fc4563c5d7ec0d3542c6a14844e4b1c13c24a2046742f7b40f0df98"
+    },
+    {
+      "variant": "dw_se",
+      "seed": 42,
+      "test_correct": 9190,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "baa415491e66df5519351c1465f996c1ea59a83fc85755b1cfc724e7b3fb56b3"
+    },
+    {
+      "variant": "dw_se",
+      "seed": 43,
+      "test_correct": 9182,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "ebe371969939155bd88a9dfcedeb66f08dd045298ced176d928339fc8ffbd1b9"
+    },
+    {
+      "variant": "dw_se",
+      "seed": 44,
+      "test_correct": 9215,
+      "max_probability_absolute_difference": 0.0,
+      "checkpoint_sha256": "5f26c8443c4a1c8c05f42f7f2e24eeaafcab1af7af0e3f37c4da3e9866b6b669"
+    }
+  ]
+}

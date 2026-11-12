@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checks": [
+    "baseline: CPU live prediction matches saved GPU test prediction",
+    "dw: CPU live prediction matches saved GPU test prediction",
+    "se: CPU live prediction matches saved GPU test prediction",
+    "dw_se: CPU live prediction matches saved GPU test prediction",
+    "threshold endpoints and sample switching",
+    "random sample class filters for all 10 classes",
+    "PNG/JPEG upload, preprocessing parity, invert option",
+    "invalid inputs return HTTP 400"
+  ]
+}

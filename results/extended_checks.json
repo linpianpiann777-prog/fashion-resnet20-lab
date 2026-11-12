@@ -1,0 +1,7 @@
+{
+  "source_hashes_unchanged": true,
+  "brier_ece_independently_recomputed": true,
+  "risk_coverage_points_checked_per_model": 20,
+  "se_parameter_mac_derivation_checked": true,
+  "channel_means_checked": true
+}

@@ -147,3 +147,17 @@ REFERENCES.md              开源项目调研与论文来源
 ## 来源和许可
 
 参见 [REFERENCES.md](REFERENCES.md)。独立实现的代码采用 MIT 许可；Fashion-MNIST 由官方项目提供，下载时遵循其许可。仓库不包含数据集、虚拟环境、安装包、访问凭据或其他课程项目文件。
+
+## 补充图表与数学推导
+
+报告更新为 18 页、16 幅图，新增种子配对收益、逐类 F1、概率校准、风险覆盖率、混淆变化和 SE 门控分析，以及训练与应用流程图。公式涵盖残差梯度、卷积参数与 MACs、SE、交叉熵、BN、ECE/Brier 和阈值决策，使用 Word 原生可编辑公式。
+
+```powershell
+python extend_analysis.py
+python verify_extensions.py
+python build_report.py
+```
+
+新增分析复用已有权重和逐样本预测，不重新训练。训练/绘图依赖沿用 requirements.txt；报告生成需要 python-docx。结果见 `results/extended_analysis.json`，全部测试样本的末尾 SE 门控见 `results/se_channel_weights.npz`。ECE 使用十个等宽箱；Brier 对十类求和后取样本均值。单模型图按验证集选种子，逐类 F1 图跨三个种子平均。
+
+两篇原始论文的阅读指南见 [papers/阅读指南.md](papers/阅读指南.md)。下载原版 ResNet 和 SE PDF：安装 `pypdf` 后运行 `python download_papers.py`。PDF 和原文页面预览保存在本地，不纳入公共仓库；官方地址与 SHA256 可核验。

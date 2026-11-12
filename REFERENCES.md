@@ -18,3 +18,9 @@
 4. Xiao H., Rasul K., Vollgraf R. Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. 2017. https://arxiv.org/abs/1708.07747
 
 本项目的“结构创新”指课程范围内的组件替换、组合及实证分析，不声称首次提出深度可分离卷积或 SE。
+
+## 校准分析与原文阅读
+
+Guo et al. On Calibration of Modern Neural Networks. ICML 2017. https://proceedings.mlr.press/v70/guo17a.html
+
+本项目未执行温度缩放；仅使用可靠性图及 ECE 诊断。两篇本地原始论文见 [阅读指南](papers/阅读指南.md)。

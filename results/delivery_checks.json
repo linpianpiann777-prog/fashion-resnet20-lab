@@ -1,9 +1,12 @@
 {
-  "report_pages": 10,
-  "report_embedded_figures": 8,
+  "report_pages": 18,
+  "report_embedded_figures": 16,
   "report_numeric_fields_checked": true,
-  "report_sha256": "49ec5b054bd2d0e6760db881b34d195395004536047e0b2c8834594662318e58",
+  "report_sha256": "1ea1f4638e760e53ff3e3cfc8f74c1885fd004edbd8060a881773c3a43de8603",
   "all_12_checkpoints_reverified": true,
   "app_checks_passed": true,
-  "report_rendering": "Microsoft Word PDF export and visual inspection of every page"
+  "report_rendering": "Microsoft Word PDF export and visual inspection of every page",
+  "report_editable_equations": 18,
+  "extended_metrics_independently_verified": true,
+  "downloaded_papers": 2
 }

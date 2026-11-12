@@ -1,0 +1,20 @@
+[
+  {
+    "file": "01_ResNet_CVPR2016.pdf",
+    "title": "Deep Residual Learning for Image Recognition",
+    "url": "https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf",
+    "pages": 9,
+    "bytes": 603123,
+    "sha256": "51b5de45eb0b558b19c3affe49503cff50cb170a32de602983d6e2ec286942a7",
+    "first_page_excerpt": "Deep Residual Learning for Image Recognition\nKaiming He Xiangyu Zhang Shaoqing Ren Jian Sun\nMicrosoft Research\n{kahe, v-xiangz, v-shren, jiansun }@microsoft.com\nAbstract\nDeeper neural networks are more difﬁcult to train. We\npresent a residual learnin"
+  },
+  {
+    "file": "03_SE_CVPR2018.pdf",
+    "title": "Squeeze-and-Excitation Networks",
+    "url": "https://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf",
+    "pages": 10,
+    "bytes": 2329943,
+    "sha256": "2acc7faca912aa54cb4759f933c40df02efcf77f2b3cfe2f4162e38d170f277e",
+    "first_page_excerpt": "Squeeze-and-Excitation Networks\nJie Hu1∗ Li Shen2∗ Gang Sun1\nhujie@momenta.ai lishen@robots.ox.ac.uk sungang@momenta.ai\n1 Momenta 2 Department of Engineering Science, University of Oxford\nAbstract\nConvolutional neural networks are built upon the con-"
+  }
+]

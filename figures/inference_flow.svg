@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="640.8pt" height="338.4pt" viewBox="0 0 640.8 338.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-12T15:18:17.580985</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 338.4 
+L 640.8 338.4 
+L 640.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 237.795156 48.415205 
+L 403.004844 48.415205 
+Q 409.054844 48.415205 409.054844 42.365205 
+L 409.054844 30.354795 
+Q 409.054844 24.304795 403.004844 24.304795 
+L 237.795156 24.304795 
+Q 231.745156 24.304795 231.745156 30.354795 
+L 231.745156 42.365205 
+Q 231.745156 48.415205 237.795156 48.415205 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="39.577607" transform="rotate(-0 320.4 39.577607)">测试样本切换 / 上传单件服饰图像</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 320.4 52.938105 
+Q 320.4 60.660487 320.4 66.705818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 322.4 62.705818 
+L 320.4 66.705818 
+L 318.4 62.705818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <g id="patch_4">
+     <path d="M 200.153672 98.656689 
+L 440.646328 98.656689 
+Q 446.696328 98.656689 446.696328 92.606689 
+L 446.696328 80.553311 
+Q 446.696328 74.503311 440.646328 74.503311 
+L 200.153672 74.503311 
+Q 194.103672 74.503311 194.103672 80.553311 
+L 194.103672 92.606689 
+Q 194.103672 98.656689 200.153672 98.656689 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="89.819092" transform="rotate(-0 320.4 89.819092)">灰度化 → 等比例缩放和补边 → 28×28 → 归一化</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 320.4 103.158105 
+Q 320.4 110.880487 320.4 116.925818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 322.4 112.925818 
+L 320.4 116.925818 
+L 318.4 112.925818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <g id="patch_6">
+     <path d="M 203.86875 148.849189 
+L 436.93125 148.849189 
+Q 442.98125 148.849189 442.98125 142.799189 
+L 442.98125 130.800811 
+Q 442.98125 124.750811 436.93125 124.750811 
+L 203.86875 124.750811 
+Q 197.81875 124.750811 197.81875 130.800811 
+L 197.81875 142.799189 
+Q 197.81875 148.849189 203.86875 148.849189 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="140.011592" transform="rotate(-0 320.4 140.011592)">加载选定模型的验证集最优权重；eval 模式推理</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 320.4 153.378105 
+Q 320.4 161.100487 320.4 167.145818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 322.4 163.145818 
+L 320.4 167.145818 
+L 318.4 163.145818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <g id="patch_8">
+     <path d="M 221.134453 199.080361 
+L 419.665547 199.080361 
+Q 425.715547 199.080361 425.715547 193.030361 
+L 425.715547 181.009639 
+Q 425.715547 174.959639 419.665547 174.959639 
+L 221.134453 174.959639 
+Q 215.084453 174.959639 215.084453 181.009639 
+L 215.084453 193.030361 
+Q 215.084453 199.080361 221.134453 199.080361 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="190.242764" transform="rotate(-0 320.4 190.242764)">Softmax 概率 → 最大概率 q 与预测类别</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 320.4 203.598105 
+Q 320.4 211.320487 320.4 217.365818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 322.4 213.365818 
+L 320.4 217.365818 
+L 318.4 213.365818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <g id="patch_10">
+     <path d="M 207.067344 249.278877 
+L 433.732656 249.278877 
+Q 439.782656 249.278877 439.782656 243.228877 
+L 439.782656 231.251123 
+Q 439.782656 225.201123 433.732656 225.201123 
+L 207.067344 225.201123 
+Q 201.017344 225.201123 201.017344 231.251123 
+L 201.017344 243.228877 
+Q 201.017344 249.278877 207.067344 249.278877 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="240.441279" transform="rotate(-0 320.4 240.441279)">阈值判断：q ≥ τ 自动接受；q &lt; τ 待人工复核</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 320.4 253.818105 
+Q 320.4 261.540487 320.4 267.585818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 322.4 263.585818 
+L 320.4 267.585818 
+L 318.4 263.585818 
+" style="fill: none; stroke: #276653; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <g id="patch_12">
+     <path d="M 195.244062 299.509189 
+L 445.555937 299.509189 
+Q 451.605937 299.509189 451.605937 293.459189 
+L 451.605937 281.460811 
+Q 451.605937 275.410811 445.555937 275.410811 
+L 195.244062 275.410811 
+Q 189.194062 275.410811 189.194062 281.460811 
+L 189.194062 293.459189 
+Q 189.194062 299.509189 195.244062 299.509189 
+z
+" style="fill: #e6efe9; stroke: #276653; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei', sans-serif; text-anchor: middle" x="320.4" y="290.671592" transform="rotate(-0 320.4 290.671592)">显示类别、Top-5、状态；调整阈值仅改变接受状态</text>
+   </g>
+  </g>
+ </g>
+</svg>

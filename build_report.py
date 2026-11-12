@@ -167,6 +167,8 @@ def main():
         '[6] akamaster. pytorch_resnet_cifar10. https://github.com/akamaster/pytorch_resnet_cifar10']:
         pp=p(text);pp.paragraph_format.space_after=Pt(3)
         for rr in pp.runs:rr.font.size=Pt(8.5)
+    from report_extensions import append_extensions
+    append_extensions(doc,page,p,h,figure,table)
     output=ROOT/'report';output.mkdir(exist_ok=True)
     dest=output/'CNN大作业报告.docx';doc.save(dest)
     print(dest)

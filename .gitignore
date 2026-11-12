@@ -9,3 +9,9 @@ qa/
 *.tmp
 *.zip
 .publish_*
+
+# Locally downloaded reading copies; canonical links are tracked
+papers/*.pdf
+papers/*_preview.png
+qa_render.py
+qa_finish.py
